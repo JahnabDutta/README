@@ -1,2 +1,6 @@
 # README
-This is a readme file.
+n = int(input())
+if n ==0:
+  print("hello, World")
+else:
+  print("No,u")
